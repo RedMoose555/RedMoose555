@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @RedMoose555
 - 👀 I’m interested in Music, programming and cybersecurity.
 - 🌱 I’m currently learning Digital forensics and Cybersecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
-- 😄 Pronouns: 
 - ⚡ Fun fact: i can play the doohickery
 
 <!---
