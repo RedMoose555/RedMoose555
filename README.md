@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RedMoose555
-- 👀 I’m interested in Music, programming and cybersecurity.
-- 🌱 I’m currently learning Digital forensics and Cybersecurity
-- ⚡ Fun fact: i can play the doohickery
+- RedMoose555 / Milo
+- 2nd Year in Digital Forensics and Cybersecurity
+- Professional unprofessional
+- "Who am I to judge another, when I myself walk imperfectly?"
 
 <!---
 RedMoose555/RedMoose555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
