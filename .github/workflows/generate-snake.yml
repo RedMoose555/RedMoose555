@@ -23,14 +23,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Fetch all branches
-        run: git fetch origin
-
       - name: Checkout or create output branch
         run: |
-          if git show-ref --verify --quiet refs/heads/output; then
-            git checkout output
-            git reset --hard origin/output
+          git fetch origin output
+          if git ls-remote --exit-code --heads origin output; then
+            git checkout -B output origin/output
           else
             git checkout --orphan output
             git rm -rf .
