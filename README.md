@@ -4,7 +4,7 @@
 - 🥋 MMA Fighter | Muay Thai & BJJ practitioner  
 - 🤖 Professional unprofessional  
 - 💭 *"Who am I to judge another, when I myself walk imperfectly?"*  
-- 🔥 *"You can either make progress or excuses. The choice is yours."* — *Progress Gi*
+- 🔥 > _**“You can either make progress or excuses. The choice is yours.”**_
 
 ---
 
