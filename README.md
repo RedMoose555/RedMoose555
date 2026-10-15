@@ -1,6 +1,6 @@
 # 👋 RedMoose555 (Milo)
 
-- 🧠 3rd Year Digital Forensics & Cybersecurity Student  
+- 🧠 4th Year Digital Forensics & Cybersecurity Student  
 - 🥋 MMA Fighter | Muay Thai & BJJ practitioner  
 - 🤖 Professional unprofessional  
 - 💭 *"Who am I to judge another, when I myself walk imperfectly?"*  
